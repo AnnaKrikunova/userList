@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calendar/static/css/main.f258f82e.chunk.css",
-    "main.js": "/calendar/static/js/main.de406531.chunk.js",
-    "main.js.map": "/calendar/static/js/main.de406531.chunk.js.map",
-    "runtime~main.js": "/calendar/static/js/runtime~main.3b46a14a.js",
-    "runtime~main.js.map": "/calendar/static/js/runtime~main.3b46a14a.js.map",
-    "static/js/2.2ffdab0a.chunk.js": "/calendar/static/js/2.2ffdab0a.chunk.js",
-    "static/js/2.2ffdab0a.chunk.js.map": "/calendar/static/js/2.2ffdab0a.chunk.js.map",
-    "index.html": "/calendar/index.html",
-    "precache-manifest.ef7773279beb0efe4e0dadf6821e0c19.js": "/calendar/precache-manifest.ef7773279beb0efe4e0dadf6821e0c19.js",
-    "service-worker.js": "/calendar/service-worker.js",
-    "static/css/main.f258f82e.chunk.css.map": "/calendar/static/css/main.f258f82e.chunk.css.map"
+    "main.css": "/userList/static/css/main.f258f82e.chunk.css",
+    "main.js": "/userList/static/js/main.0c775f28.chunk.js",
+    "main.js.map": "/userList/static/js/main.0c775f28.chunk.js.map",
+    "runtime~main.js": "/userList/static/js/runtime~main.1c1be5d6.js",
+    "runtime~main.js.map": "/userList/static/js/runtime~main.1c1be5d6.js.map",
+    "static/js/2.2ffdab0a.chunk.js": "/userList/static/js/2.2ffdab0a.chunk.js",
+    "static/js/2.2ffdab0a.chunk.js.map": "/userList/static/js/2.2ffdab0a.chunk.js.map",
+    "index.html": "/userList/index.html",
+    "precache-manifest.5a75c8e74858bfcc90f139a48b824847.js": "/userList/precache-manifest.5a75c8e74858bfcc90f139a48b824847.js",
+    "service-worker.js": "/userList/service-worker.js",
+    "static/css/main.f258f82e.chunk.css.map": "/userList/static/css/main.f258f82e.chunk.css.map"
   }
 }
